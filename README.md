@@ -4,7 +4,7 @@
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 Atualmente estudando HTML, CSS e JavaScript
 - 💬 Contate me no email: kamilaalvesdejesus1@gmail.com
-- 😄 Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/Kamila-Alves">
