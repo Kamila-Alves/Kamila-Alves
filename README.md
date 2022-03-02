@@ -3,7 +3,7 @@
 - 🔭Apaixonada por tecnologia em busca do primeiro emprego
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 Atualmente estudando HTML, CSS e JavaScript
-- 💬 Contate me no email: kamilaalves727@gmail.com
+- 💬 Contate-me no email: kamilaalves727@gmail.com
 
 
 <div align="center">
