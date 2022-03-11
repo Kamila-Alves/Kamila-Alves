@@ -1,5 +1,5 @@
- <div style="display: inline_block"><br>
-  <h1>Olá! Kamila aqui 👋</h1>
+ 
+<h1>Olá! Kamila aqui 👋</h1>
 
 <img align="center" >![kamila-gif](https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif)</img>
 
@@ -11,6 +11,7 @@
 - 💬 Contate-me no email: kamilaalves727@gmail.com
 
 ##
+  <div style="display: inline_block"><br>
   <img align="center" alt="kamila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="kamila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="kamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +20,7 @@
 
    ##
   
-  <div align="center">
+  <div align="justify">
   <a href="https://github.com/Kamila-Alves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamila-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Alves&layout=compact&langs_count=7&theme=dracula"/>
