@@ -1,26 +1,31 @@
-### Olá! Kamila aqui 👋
+ <div style="display: inline_block"><br>
+  <h1>Olá! Kamila aqui 👋</h1>
 
-- 🔭Apaixonada por tecnologia em busca do primeiro emprego
+<img align="center" >![kamila-gif](https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif)</img>
+
+
+
+- 🔭Apaixonada por tecnologia em busca do primeiro emprego                           
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Atualmente estudando Front-End
+- 👯 Atualmente estudando Front-End                                                         
 - 💬 Contate-me no email: kamilaalves727@gmail.com
 
 ##
-
-<div align="center">
-  <a href="https://github.com/Kamila-Alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamila-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Alves&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- <div style="display: inline_block"><br>
   <img align="center" alt="kamila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="kamila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="kamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="kamila-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="kamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- 
+   <img align="center" alt="kamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+
    ##
-   
+  
+  <div align="center">
+  <a href="https://github.com/Kamila-Alves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamila-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Alves&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
+   ##
 <div> 
   <a href=https://www.instagram.com/kamilaalves_j/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kamila-alves-651a32192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
