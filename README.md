@@ -1,7 +1,9 @@
  
 <h1>Olá! Kamila aqui 👋</h1>
 
-<img align="center" >![kamila-gif](https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif)</img>
+
+![kamila-gif](https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif)
+
 
 
 
@@ -20,10 +22,10 @@
 
    ##
   
-  <div align="justify">
+  <div align="center">
   <a href="https://github.com/Kamila-Alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamila-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Alves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kamila-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Alves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
    ##
