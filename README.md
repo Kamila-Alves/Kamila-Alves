@@ -21,7 +21,7 @@
 
 
 ## 
- <img align="right" height="170" width="180"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
+ <img align="right" height="130" width="130"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
  
  
  <div align="center">
