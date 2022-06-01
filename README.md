@@ -3,7 +3,7 @@
  
  
  - Apaixonada por tecnologia em busca do primeiro emprego
- - Estudante de Análise e Desenvolvimento de Sistemas
+ - Estudante de Análise e Desenvolvimento de Sistemas 
  - Atualmente estudando Front-End
  - Disposta a aprender cada vez mais 
 </div>
@@ -19,7 +19,11 @@
 </div>
 
 
-##
+
+## 
+ <img align="right" height="170" width="180"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
+ 
+ 
  <div align="center">
   <a href="https://github.com/kamilajesus">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kamilajesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
