@@ -1,6 +1,6 @@
 <h1 align="center" >Olá! Kamila aqui 👋</h1>
 <div>
- 
+  <img align="right" height="130" width="130"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
  
  - Apaixonada por tecnologia em busca do primeiro emprego
  - Estudante de Análise e Desenvolvimento de Sistemas 
@@ -21,7 +21,7 @@
 
 
 ## 
- <img align="right" height="130" width="130"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
+
  
  
  <div align="center">
