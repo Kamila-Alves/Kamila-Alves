@@ -26,11 +26,11 @@
 
  
  
- <div align="center">
-  <a href="https://github.com/kamilajesus">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kamilajesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilajesus&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<div align="center">
+   <a href="https://github.com/seu-usuário-aqui">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilajesus&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kamilajesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div
 
  
 ##
