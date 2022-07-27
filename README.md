@@ -41,4 +41,6 @@
    <a href="https://wa.link/q8qzvn" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    
 ![Snake animation](https://github.com/kamilajesus/kamilajesus/blob/output/github-contribution-grid-snake.svg)
+     
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamilajesus&label=Profile%20views&color=28a464&style=flat" alt="kamilajesus" /> </p>
 
