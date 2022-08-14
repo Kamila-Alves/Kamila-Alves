@@ -9,7 +9,6 @@
  - Estudando tecnologias desde dezembro de 2021;
  - Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica;
  - Disposta a aprender cada vez mais sobre tecnologia;
- - Acredito que a tecnologia pode sim mudar a vida das pessoas pra melhor.
 </div>
 
 ##
