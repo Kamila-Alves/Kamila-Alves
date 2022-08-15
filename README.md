@@ -1,7 +1,7 @@
 <img alt="kamila-gif" src="header.png" />
 
 <div>
-  <img align="right" height="200" width="200"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
+  <img align="right" height="175" width="175"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
   
   ##
  
