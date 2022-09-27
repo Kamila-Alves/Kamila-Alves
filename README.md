@@ -1,5 +1,3 @@
-<img alt="kamila-gif" src="header.png" />
-
 <div>
   <img align="right" height="175" width="175"  alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129-4799f01c-1598-43af-903f-e08f92af299f.gif" />
   
@@ -10,20 +8,6 @@
  - Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica;
  - Disposta a aprender cada vez mais sobre tecnologia;
 </div>
-
-##
-  <div  align="center" style="display: inline_block"><br>
-   <img align="center" alt="kamila-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="kamila-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="kamila-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="kamila-Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="kamila-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-   <img align="center" alt="kamila-BootStrap" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-   <img align="center" alt="kamila-React" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="kamila-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-</div>
-
-
 
 ## 
  
