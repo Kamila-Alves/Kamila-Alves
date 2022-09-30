@@ -8,7 +8,7 @@
 
 </h4>
 
-Desde pequena sempre fui apaixonada por tecnologia, de uns tempos pra cá comecei a estudar sobre programação e vi que isso é o que eu queria fazer da vida.
+Desde pequena sempre fui apaixonada por tecnologia, de uns tempos pra cá comecei a estudar sobre programação e vi que isso é o que eu queria fazer da vida. Estou no 2º semestre no curso de Análise e Desenvolvimento de Sistemas na Faculdade Uniámerica.
 
 Tenho conhecimentos em: HTML, CSS, JavaScript, React, Tailwind CSS, BootStrap, GIT, e Linux.
 
