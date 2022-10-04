@@ -20,7 +20,7 @@ Estudando atualmente: Python, Django, JavaScript, NodeJS, PostgreSQL, MySQL.
 
 Meu foco principal atualmente é o Desenvolvimento Backend.
 
-Você pode me encontrar através do e-mail: kamilaalves727@gmail.com
+Você pode me encontrar através do e-mail: kamilajesusdev@gmail.com
 
 <div align="center"> 
 
