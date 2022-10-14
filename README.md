@@ -16,7 +16,7 @@ Estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Facu
 
 Tenho conhecimentos em: HTML, CSS, JavaScript, React, Tailwind CSS, BootStrap, GIT, e Linux.
 
-Estudando atualmente: Python e DJango
+Estudando atualmente: Python e Javascript
 
 Meu foco principal atualmente é o Desenvolvimento Backend.
 
